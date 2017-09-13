@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
-    tools:context="com.mgodak.sudoku.MainActivity" >
+    tools:context="com.mgodak.sudoku.gui.MainActivity" >
 
     <TextView
         android:id="@+id/menu_text"

@@ -1,7 +1,9 @@
-package com.mgodak.sudoku;
+package com.mgodak.sudoku.gui;
 
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
+
+import com.mgodak.sudoku.R;
 
 public class MainActivity extends FragmentActivity {
 
